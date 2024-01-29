@@ -1,0 +1,26 @@
+.form {
+	margin-top: 24px;
+	margin-bottom: 32px;
+
+	button {
+		margin-top: 16px;
+		width: 240px;
+	}
+}
+
+.input_wrapper {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+
+	div {
+		height: 51px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	input {
+		width: 78px;
+	}
+}
